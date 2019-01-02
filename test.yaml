@@ -1,14 +1,1 @@
--  martin:
-    name: Martin D'vloper
-    job: Developer
-    skills:
-      - python
-      - perl
-      - pascal
--  tabitha:
-    name: Tabitha Bitumen
-    job: Developer
-    skills:
-      - lisp
-      - fortran
-      - erlang
+LSBtYXJ0aW46CiAgICBqb2I6IERldmVsb3BlcgogICAgbmFtZTogTWFydGluIEQndmxvcGVyCiAgICBza2lsbHM6IFtweXRob24sIHBlcmwsIHBhc2NhbF0KLSB0YWJpdGhhOgogICAgam9iOiBFbmdpbmVlcmluZwogICAgbmFtZTogVGFiaXRoYSBCaXR1bWVuCiAgICBza2lsbHM6IFtsaXNwLCBmb3J0cmFuLCBlcmxhbmddCg==
